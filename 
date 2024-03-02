@@ -1,0 +1,35 @@
+[33mcommit 4e63fdb226fc34186553ff9dc25f7c17e39157c7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Edgar SA <Garko1209@hotmail.com>
+Date:   Thu Feb 29 12:50:09 2024 -0600
+
+    se modifico el holamundo
+
+[33mcommit ee622c563a0a6b2ab1613b68be700d14b53f4806[m
+Author: Edgar SA <Garko1209@hotmail.com>
+Date:   Thu Feb 29 12:11:02 2024 -0600
+
+     solo se agrego otra linea de codigo irrelevante
+
+[33mcommit 8612a624858effe23f095e00f1f55e2eef476b63[m[33m ([m[1;33mtag: [m[1;33mgitignore[m[33m)[m
+Author: Edgar SA <Garko1209@hotmail.com>
+Date:   Thu Feb 29 11:52:17 2024 -0600
+
+    se agrego el .gitignore que sirve para ocultar los ficheros que no giteamos
+
+[33mcommit 8a3d8db3894aa9b1962ae59b0a054ed850cf2bee[m
+Author: Edgar SA <Garko1209@hotmail.com>
+Date:   Thu Feb 29 10:25:51 2024 -0600
+
+    modificacion del mensaje mostrado en el print
+
+[33mcommit ac46d630f40247a299a06b256d68a831af89a7e6[m
+Author: Edgar SA <Garko1209@hotmail.com>
+Date:   Thu Feb 29 09:04:29 2024 -0600
+
+     Ejemplo de un for mejorado conocido como foreach
+
+[33mcommit 377ae52db8e4a02329a974eb1e8b8b17bb3a047d[m
+Author: Edgar SA <Garko1209@hotmail.com>
+Date:   Thu Feb 29 08:57:58 2024 -0600
+
+    Commit de hola mundo en java
